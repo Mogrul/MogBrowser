@@ -2,6 +2,10 @@
 
 A lightweight, self-hosted file browser and media gallery built with Python, Flask, and Jinja2. Browse files and folders through a clean, dark-themed web interface, with support for multiple directory scopes and an interactive media preview.
 
+<p align="center">
+  <img src="assets/poster.png" alt="MogBrowser Poster" width="100%">
+</p>
+
 ## Features
 
 - **Gallery view** — Browse files and folders in a responsive card-based grid.
