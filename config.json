@@ -1,9 +1,0 @@
-{
-  "debug": true,
-  "thumbnail_path": "thumbnails",
-  "scopes": {
-    "root": {
-      "path": "./"
-    }
-  }
-}
