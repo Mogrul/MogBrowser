@@ -1,0 +1,17 @@
+.path-card {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.path-card img {
+    display: block;
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.path-card h3 {
+    font-size: 16px;
+    overflow-wrap: anywhere;
+}
